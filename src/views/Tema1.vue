@@ -14,8 +14,6 @@
           
           p.mb-4 Teniendo claro que un plan de comunicación requiere la implementación de estrategias y acciones que lleven al cumplimiento de los objetivos propuestos, a través de este componente formativo, se verán los elementos que debe contener este plan, así como las estrategias que en este campo se pueden desarrollar para el proceso de comunicación de la empresa. Es importante tener claro que, si bien ya se ha estudiado la comunicación interna, esta tiene grandes diferencias con la comunicación dirigida a los consumidores de los productos o usuarios de los servicios de la empresa.
 
-          
-
         .col-lg-6
           img(src="@/assets/tema1/img-01.png")
     br
@@ -59,33 +57,38 @@
         p.mb-4 El proceso de la comunicación es conocido por la mayoría de personas; así mismo es de fácil comprensión y contiene los siguientes elementos: 
 
         .row.justify-content-center
-          .tarjeta-Avatar-b.mb-2
-              img(src='@/assets/tema1/img-1-2-2.png' alt='AvatarTop'  )
-              .tarjeta.tarjeta--gris.p-5.align-self-center.tajerta-linea-der
+          .crd_01
+            .crd_01__icon
+              img(src='@/assets/tema1/img-1-2-2.png' alt='AvatarTop' ).class 
+            .crd_01__txt
                p #[strong Emisor:] es quien emite o genera el mensaje, es la persona que busca ser comprendida por otra u otras a través de lo que desea trasmitir.
 
-        .row.justify-content-center
-          .tarjeta-Avatar-b.mb-2
+        .row.justify-content-center.mt-3
+          .crd_01
+            .crd_01__icon
               img(src='@/assets/tema1/img-1-2-3.png' alt='AvatarTop')
-              .tarjeta.tarjeta--gris.p-5.align-self-center.tajerta-linea-der
+            .crd_01__txt
                 p #[strong Receptor:] es la persona o personas que reciben el mensaje y quienes deben comprenderlo para generar una respuesta efectiva.
 
-        .row.justify-content-center
-          .tarjeta-Avatar-b.mb-2
+        .row.justify-content-center.mt-3
+          .crd_01
+            .crd_01__icon
               img(src='@/assets/tema1/img-1-2-4.png'  alt='AvatarTop')
-              .tarjeta.tarjeta--gris.p-5.align-self-center.tajerta-linea-der
+            .crd_01__txt
                 p #[strong Código:] es el formato que tiene el mensaje; este depende del medio o canal por donde se vaya a transmitir: escrito, oral, audiovisual, gesticular, etc.
 
-        .row.justify-content-center
-          .tarjeta-Avatar-b.mb-2
+        .row.justify-content-center.mt-3
+          .crd_01
+            .crd_01__icon
               img(src='@/assets/tema1/img-1-2-5.png' alt='AvatarTop')
-              .tarjeta.tarjeta--gris.p-5.align-self-center.tajerta-linea-der
+            .crd_01__txt
                 p #[strong Canal:] es el medio por el cual se transmite el mensaje para que sea recibido de la forma más adecuada posible por el receptor.
 
-        .row.justify-content-center
-          .tarjeta-Avatar-b.mb-2
+        .row.justify-content-center.mt-3
+          .crd_01
+            .crd_01__icon
               img(src='@/assets/tema1/img-1-2-6.png' alt='AvatarTop')
-              .tarjeta.tarjeta--gris.p-5.align-self-center.tajerta-linea-der
+            .crd_01__txt
                 p #[strong Feed back:] es la realimentación a la comunicación, la respuesta al mensaje emitido; un mensaje con el mismo código y canal, uno a través de otro medio e incluso, el silencio puede ser un feed back.
     .row
       br
@@ -108,34 +111,49 @@
         p.mb-4 En este proceso, que sigue siendo igual al ya conocido, los roles tienen unos ligeros cambios que se verán a continuación: 
 
         .row.justify-content-center
-          .tarjeta-Avatar-b.mb-2
-              img(src='@/assets/tema1/img-1-2-8.png' alt='AvatarTop'  )
-              .tarjeta.tarjeta--gris.p-5.align-self-center.tajerta-linea-der
-               p #[strong Anunciante:] es quien emite el mensaje, en este caso es la empresa dueña de la marca, el producto o servicio para el que se está realizando la estrategia de comunicación o la campaña.
+          .crd_01.m-3
+            .crd_01__icon
+              img(src='@/assets/tema1/img-1-2-8.png' alt='AvatarTop').class          
+            .crd_01__txt
+              p #[strong Anunciante:] es quien emite el mensaje, en este caso es la empresa dueña de la marca, el producto o servicio para el que se está realizando la estrategia de comunicación o la campaña.
+               
 
         .row.justify-content-center
-          .tarjeta-Avatar-b.mb-2
-              img(src='@/assets/tema1/img-1-2-9.png' alt='AvatarTop')
-              .tarjeta.tarjeta--gris.p-5.align-self-center.tajerta-linea-der
-                p #[strong Consumidor:] es quien recibe la comunicación y para quien se desarrolla toda la estrategia, es el actor principal del proceso porque de su respuesta depende la efectividad de la misma.
+          .crd_01.m-3
+            .crd_01__icon
+              img(src='@/assets/tema1/img-1-2-9.png' alt='AvatarTop').class          
+            .crd_01__txt
+              p #[strong Consumidor:] es quien recibe la comunicación y para quien se desarrolla toda la estrategia, es el actor principal del proceso porque de su respuesta depende la efectividad de la misma.       
+         
+                
 
         .row.justify-content-center
-          .tarjeta-Avatar-b.mb-2
-              img(src='@/assets/tema1/img-1-2-10.png'  alt='AvatarTop')
-              .tarjeta.tarjeta--gris.p-5.align-self-center.tajerta-linea-der
-                p #[strong Código:] es el lenguaje utilizado para el diseño del mensaje; en la actualidad, en este punto existe un ramillete de posibilidades, lo que permite generar comunicación mucho más impactante, dinámica y persuasiva entre los lenguajes que se utilizan: audiovisual, gráfico, auditivo y textual. Estos a su vez presentan múltiples posibilidades de interacción.
+          .crd_01.m-3
+            .crd_01__icon
+              img(src='@/assets/tema1/img-1-2-10.png' alt='AvatarTop').class          
+            .crd_01__txt
+              p #[strong Código:] es el lenguaje utilizado para el diseño del mensaje; en la actualidad, en este punto existe un ramillete de posibilidades, lo que permite generar comunicación mucho más impactante, dinámica y persuasiva entre los lenguajes que se utilizan: audiovisual, gráfico, auditivo y textual. Estos a su vez presentan múltiples posibilidades de interacción.        
+          
+                
 
         .row.justify-content-center
-          .tarjeta-Avatar-b.mb-2
-              img(src='@/assets/tema1/img-1-2-11.png' alt='AvatarTop')
-              .tarjeta.tarjeta--gris.p-5.align-self-center.tajerta-linea-der
-                p #[strong Medio:] es el canal por el cual se va a transmitir el mensaje, hoy en día los medios han evolucionado en cuanto a la comunicación de marketing, con la preferencia del mercado por las redes sociales para mantenerse informado y con la decadencia de la televisión convencional; los medios que operan a través de plataformas web son los más efectivos para el desarrollo de estrategias de promoción.
+          .crd_01.m-3
+            .crd_01__icon
+              img(src='@/assets/tema1/img-1-2-11.png' alt='AvatarTop').class          
+            .crd_01__txt
+              p #[strong Medio:] es el canal por el cual se va a transmitir el mensaje, hoy en día los medios han evolucionado en cuanto a la comunicación de marketing, con la preferencia del mercado por las redes sociales para mantenerse informado y con la decadencia de la televisión convencional; los medios que operan a través de plataformas web son los más efectivos para el desarrollo de estrategias de promoción.        
+
+                
 
         .row.justify-content-center
-          .tarjeta-Avatar-b.mb-2
-              img(src='@/assets/tema1/img-1-2-12.png' alt='AvatarTop')
-              .tarjeta.tarjeta--gris.p-5.align-self-center.tajerta-linea-der
-                p #[strong Feed back:] es la razón de ser de la comunicación de marketing, es a través de este que se pueden realizar las mediciones de efectividad de las estrategias y definir los ajustes pertinentes a las mismas. Los clientes pueden generar diferentes tipos de respuestas dependiendo de los objetivos que la empresa haya planteado y es deber de ella otorgar todos los medios necesarios para que el cliente pueda expresar de la forma más eficiente posible dichas respuestas. Entre las más frecuentes están: la compra, la inscripción a un sitio web o el diligenciamiento de un formulario, el like a un post en una red social, compartir o comentar una publicación o escribir un mensaje a través de WhatsApp u otro sistema de chat.
+          .crd_01.m-3
+            .crd_01__icon
+              img(src='@/assets/tema1/img-1-2-12.png' alt='AvatarTop').class          
+            .crd_01__txt
+              p #[strong Feed back:] es la razón de ser de la comunicación de marketing, es a través de este que se pueden realizar las mediciones de efectividad de las estrategias y definir los ajustes pertinentes a las mismas. Los clientes pueden generar diferentes tipos de respuestas dependiendo de los objetivos que la empresa haya planteado y es deber de ella otorgar todos los medios necesarios para que el cliente pueda expresar de la forma más eficiente posible dichas respuestas. Entre las más frecuentes están: la compra, la inscripción a un sitio web o el diligenciamiento de un formulario, el like a un post en una red social, compartir o comentar una publicación o escribir un mensaje a través de WhatsApp u otro sistema de chat.
+
+
+                
     .row
       br
       br
