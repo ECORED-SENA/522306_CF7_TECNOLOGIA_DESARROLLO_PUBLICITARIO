@@ -17,11 +17,6 @@ var _default = {
       icono: 'fas fa-home',
       titulo: 'Volver al inicio'
     }, {
-      nombreRuta: 'introduccion',
-      icono: 'fas fa-info',
-      titulo: 'Introducción',
-      desarrolloContenidos: true
-    }, {
       nombreRuta: 'tema1',
       icono: 'far fa-file-alt',
       numero: '1',

@@ -254,7 +254,7 @@
                 
             .col-md-6
               .h4 Promoción de ventas
-              p de acuerdo con Kotler y Armstrong (2003), la promoción de ventas se define como “los incentivos a corto plazo que fomentan la compra o venta de un producto o servicio” (p. 470-476). Dichos incentivos pueden llevarse a cabo de distintas formas: descuentos, ofertas, cupones, regalos, etc.
+              p De acuerdo con Kotler y Armstrong (2003), la promoción de ventas se define como “los incentivos a corto plazo que fomentan la compra o venta de un producto o servicio” (p. 470-476). Dichos incentivos pueden llevarse a cabo de distintas formas: descuentos, ofertas, cupones, regalos, etc.
               br
               p Esta técnica por lo tanto se realiza de forma casi exclusiva en los puntos de venta; no obstante, en la actualidad plataformas como Instagram y Facebook se han convertido en verdaderas vitrinas de los que antes fueron almacenes exclusivamente físicos, para transformarse en negocios multiplataforma, esto le ha permitido a muchas marcas expandir la cobertura de sus mercados y llegar a públicos que están por fuera de su área geográfica, todo acompañado de los cada vez mejores servicios de courier que tiene la posibilidad de llegar a casi cualquier lugar. Es por eso que hoy en día plataformas como Amazon y Ali Express permiten ventas a nivel mundial, a tal nivel que el propio comprador muchas veces ignora el origen del producto que está adquiriendo. La promoción de ventas es una muy eficaz técnica de comunicación debido a que más del 80 % de las compras que realiza una persona, las hace motivada por las emociones, por encima de la racionalidad; por lo tanto, las ofertas, los descuentos y los obsequios son un excelente generador de ventas por impulso. 
               
@@ -447,9 +447,7 @@
                 br
                 P
                 ul.lista-ul--color.ps-2
-                  li 
-                    i.fas.fa-caret-right
-                    p Cobertura nacional
+                  
                   li 
                     i.fas.fa-caret-right
                     p Imágenes a todo color y alta resolución.
@@ -697,8 +695,12 @@
               i.fas.fa-caret-right
               p #[strong Estrategia de marca única o monolítica:] supone poner el mismo nombre a todos los productos que la empresa comercializa y este nombre puede coincidir o no con el de la empresa. Esta estrategia también recibe el nombre de “marca paraguas”.
                 br
+            li 
+              i.fas.fa-caret-right
+              p #[strong Estrategia de marcas múltiples o marquista:] es el caso opuesto al anterior. La empresa no existe para el usuario y es el producto el que manda. 
+                br
 
-          .row.justify-content-around.align-items-center.m-5
+          .row.justify-content-around.align-items-center
             .col-md-7.mb-4.mb-md-0
               .cajon.color-primario.p-4.mb-4.bloque-gr
                 p #[strong Estrategia de marcas individuales:] consiste en poner un nombre distinto a cada uno de los productos comercializados por la empresa.
@@ -993,7 +995,7 @@
                 .c3
                   .c4.h4 a
               .h5 #[strong Técnicos]   
-            p aquí se enumeran las herramientas y los elementos necesarios para el desarrollo de la actividad.
+            p Aquí se enumeran las herramientas y los elementos necesarios para el desarrollo de la actividad.
           .hr1
           .m-3
             .c1
@@ -1001,7 +1003,7 @@
                 .c3
                   .c4.h4 b
               .h5 #[strong Tecnológicos]   
-            p estos recursos se definen desde los elementos de tecnología y software que se requieren para el desarrollo de las actividades. 
+            p Estos recursos se definen desde los elementos de tecnología y software que se requieren para el desarrollo de las actividades. 
           .hr1          
           .m-3
             .c1
@@ -1009,7 +1011,7 @@
                 .c3
                   .c4.h4 c
               .h5 #[strong Humanos]   
-            p aquí se definen los perfiles profesionales o técnicos de las personas que se requieren para el desarrollo de las actividades.  
+            p Aquí se definen los perfiles profesionales o técnicos de las personas que se requieren para el desarrollo de las actividades.  
           .hr1
           .m-3
             .c1
@@ -1017,7 +1019,7 @@
                 .c3
                   .c4.h4 d
               .h5 #[strong Económicos]   
-            p este punto define el presupuesto necesario para obtener los recursos anteriores.  
+            p Este punto define el presupuesto necesario para obtener los recursos anteriores.  
 
     .col-11.row.justify-content-around.align-items-center.m-5.bl-gr
         .col-11.row.justify-content-around.align-items-center.m-5
