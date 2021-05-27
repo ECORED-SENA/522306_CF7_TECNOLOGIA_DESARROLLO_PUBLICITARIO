@@ -84,16 +84,10 @@ export default {
   },
   creditos: {
     liderEquipo: {
-      nombre: 'Ingry Dayanna Bonilla Monzon',
+      nombre: 'Maria Camila Garcia Santamaria',
       cargo: 'Líder del equipo',
     },
     contenidoInstruccional: [
-      {
-        nombre: 'Gloria Matilde Lee Mejia',
-        cargo: 'Responsable Equipo',
-        centro: 'Centro de comercio y servicios',
-        regional: 'Regional Tolima',
-      },
       {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
@@ -102,9 +96,21 @@ export default {
       },
 
       {
-        nombre: 'Julieth Paola Vital López',
-        cargo: 'Revisora de estilo',
-        centro: 'Centro para la Industria y la Comunicación Gráfica',
+        nombre: 'Manuel Augusto Arias López',
+        cargo: 'Instructor-Experto temático',
+        centro: 'Centro de Comercio y Servicios',
+        regional: 'Regional Quindío',
+      },
+      {
+        nombre: 'Andrés Felipe Velandia Espitia',
+        cargo: 'Diseñador instruccional',
+        centro: 'Centro de Diseño y Metrología',
+        regional: 'Regional Distrito Capital',
+      },
+      {
+        nombre: 'Vilma Lucía Perilla Méndez',
+        cargo: 'Evaluadora Instruccional',
+        centro: 'Centro para la Industria y la Comunicación Gráfica ',
         regional: 'Regional Distrito Capital',
       },
     ],
@@ -133,6 +139,7 @@ export default {
         nombre: 'Jorge Leonardo Camacho Pardo',
         cargo: 'Desarrollo Front-End',
       },
+
       {
         centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
@@ -140,10 +147,10 @@ export default {
     ],
     gestoresRepositorio: [
       {
-        nombre: ['Brayan Stiven Pinto Diaz', 'Ricardo Alfonso Gonzalez Vargas'],
-        cargo: ['Validación de recursos'],
-        centro: 'Centro de comercio y servicios',
-        regional: 'Regional Tolima',
+        nombre: ['Yuli Marcela Gómez Tarazona'],
+        cargo: ['Validación de diseño y contenido'],
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
       },
     ],
   },
