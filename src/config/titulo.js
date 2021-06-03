@@ -1,1 +1,1 @@
-module.exports = '7 – Plan de comunicación'
+module.exports = 'Plan de comunicación'

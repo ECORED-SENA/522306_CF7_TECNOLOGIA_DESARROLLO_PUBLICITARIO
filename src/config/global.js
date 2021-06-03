@@ -1,6 +1,6 @@
 export default {
   global: {
-    componenteFormativo: '7 – Plan de comunicación',
+    componenteFormativo: 'Plan de comunicación',
     descripcionCurso:
       'Un plan de comunicación como cualquier otro plan requiere la implementación de estrategias y acciones que lleven al cumplimiento de los objetivos propuestos, los cuales ya se han analizado en temas anteriores y deben tener dos tipos de enfoque: en los medios y en el mensaje. Por ende, en este plan se determinarán las actividades que una empresa debe realizar para el cumplimiento de dichos objetivos.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
