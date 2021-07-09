@@ -4,8 +4,8 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     .titulo-principal
       .titulo-principal__numero
-        .h3 2
-      .h3 Estructura gráfica del plan
+        span 2
+      h1 Estructura gráfica del plan
       
     .col-11.row.justify-content-around.align-items-center.m-5 
 

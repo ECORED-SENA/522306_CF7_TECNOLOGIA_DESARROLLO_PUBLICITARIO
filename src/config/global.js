@@ -82,78 +82,6 @@ export default {
       },
     ],
   },
-  creditos: {
-    liderEquipo: {
-      nombre: 'Maria Camila Garcia Santamaria',
-      cargo: 'Líder del equipo',
-    },
-    contenidoInstruccional: [
-      {
-        nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Asesor metodológico y pedagógico',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
-      },
-
-      {
-        nombre: 'Manuel Augusto Arias López',
-        cargo: 'Instructor-Experto temático',
-        centro: 'Centro de Comercio y Servicios',
-        regional: 'Regional Quindío',
-      },
-      {
-        nombre: 'Andrés Felipe Velandia Espitia',
-        cargo: 'Diseñador instruccional',
-        centro: 'Centro de Diseño y Metrología',
-        regional: 'Regional Distrito Capital',
-      },
-      {
-        nombre: 'Vilma Lucía Perilla Méndez',
-        cargo: 'Evaluadora Instruccional',
-        centro: 'Centro para la Industria y la Comunicación Gráfica ',
-        regional: 'Regional Distrito Capital',
-      },
-    ],
-    desarrolloProducto: [
-      {
-        nombre: 'Francisco José Lizcano Reyes',
-        cargo: 'Responsable del equipo',
-      },
-      {
-        nombre: 'Leyson Fabian Castaño Perez',
-        cargo: 'Integración de recursos y pruebas',
-      },
-      {
-        nombre: [
-          'Adriana Rincón Avendaño',
-          'Eulises Orduz Amezquita',
-          'Adriana Rincón Avendaño',
-          'Maria Camila Ovalle Ospina',
-          'Yazmin Rocio Figueroa Pacheco',
-          'Yenny patricia Ulloa Villamizar',
-          'Víctor Raúl Cárdenas Cáceres',
-        ],
-        cargo: 'Diseño web y Producción Audiovisual',
-      },
-      {
-        nombre: 'Jorge Leonardo Camacho Pardo',
-        cargo: 'Desarrollo Front-End',
-      },
-
-      {
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
-      },
-    ],
-    gestoresRepositorio: [
-      {
-        nombre: ['Yuli Marcela Gómez Tarazona'],
-        cargo: ['Validación de diseño y contenido'],
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
-      },
-    ],
-  },
   referencias: [
     {
       referencia:
@@ -251,4 +179,168 @@ export default {
         'Integra a todos los mensajes comerciales que se generan fundamentalmente a partir de un vídeo y que ofrecen un mensaje indirecto, no relacionado con una marca en concreto, pero que tienen un alto impacto en las redes sociales. Una publicidad se convierte en viral (virus) cuando es compartida por muchas personas a través de la mencionada herramienta de la Web 2.0.',
     },
   ],
+  /*complementario: [
+    {
+      texto:
+        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
+      tipo: 'Video',
+      link: 'https://www.google.com/',
+    },
+    {
+      texto:
+        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
+      tipo: 'Página web',
+      descarga: '/downloads/prueba.pdf',
+    },
+    {
+      texto:
+        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
+      tipo: 'Artículo científico',
+      link: 'https://www.google.com/',
+    },
+    {
+      texto: 'Economía de Rosquilla. (s.f.).',
+      tipo: 'Página web',
+      descarga: '/downloads/prueba.pdf',
+    },
+    {
+      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
+      tipo: 'Video',
+      link: 'https://www.google.com/',
+    },
+  ],*/
+  creditos: {
+    liderEquipo: [
+      {
+        nombre: 'Maria Camila Garcia Santamaria',
+        cargo: 'Líder del equipo',
+        centro: 'Dirección General',
+      },
+    ],
+    contenidoInstruccional: [
+      {
+        nombre: 'Rafael Neftalí Lizcano Reyes',
+        cargo: 'Asesor metodológico y pedagógico',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Manuel Augusto Arias López',
+        cargo: 'Instructor-Experto temático',
+        centro: 'Centro de Comercio y Servicios – Regional Quindío',
+      },
+      {
+        nombre: 'Andrés Felipe Velandia Espitia',
+        cargo: 'Diseñador instruccional',
+        centro: 'Centro de Diseño y Metrología – Regional Distrito Capital',
+      },
+      {
+        nombre: 'Vilma Lucía Perilla Méndez',
+        cargo: 'Evaluadora instruccional',
+        centro:
+          'Centro para la Industria y la Comunicación Gráfica – Regional Distrito Capital',
+      },
+    ],
+    desarrolloProducto: [
+      {
+        nombre: 'Francisco José Lizcano Reyes',
+        cargo: 'Responsable del equipo',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Leyson Fabian Castaño Perez',
+        cargo: 'Soporte organizacional',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
+      },
+      {
+        nombre: 'Adriana Rincón Avendaño',
+        cargo: 'Diseño web y producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Eulises Orduz Amezquita',
+        cargo: 'Diseño web y producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Adriana Rincón Avendaño',
+        cargo: 'Diseño web y producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Maria Camila Ovalle Ospina',
+        cargo: 'Diseño web y producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Yazmin Rocio Figueroa Pacheco',
+        cargo: 'Diseño web y producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Yenny patricia Ulloa Villamizar',
+        cargo: 'Diseño web y producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Víctor Raúl Cárdenas Cáceres',
+        cargo: 'Diseño web y producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Jorge Leonardo Camacho Pardo',
+        cargo: 'Desarrollo front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      /*{
+        nombre: 'Nombre',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },*/
+      {
+        nombre: 'Yuli Marcela Gómez Tarazona',
+        cargo: 'Validación de diseño y contenido',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+    ],
+    gestoresRepositorio: [
+      {
+        nombre: 'Milady Tatiana Villamil Castellanos',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
+      },
+    ],
+  },
+  // creditosInicio: [
+  //   {
+  //     titulo: 'En alianza',
+  //     contenido: [
+  //       require('@/assets/template/logo-sena-naranja.svg'),
+  //       require('@/assets/template/mintic.jpg'),
+  //       require('@/assets/template/minsalud.jpg'),
+  //     ],
+  //   },
+  //   {
+  //     titulo: 'En compañía',
+  //     contenido: [
+  //       require('@/assets/template/presidencia.jpg'),
+  //       require('@/assets/template/ecopetrol.jpg'),
+  //     ],
+  //   },
+  //   {
+  //     titulo: 'Una iniciativa',
+  //     contenido: [require('@/assets/template/santander.jpg')],
+  //   },
+  // ],
 }

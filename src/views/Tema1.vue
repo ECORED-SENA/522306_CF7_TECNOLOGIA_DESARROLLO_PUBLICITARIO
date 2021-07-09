@@ -4,8 +4,8 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     .titulo-principal
       .titulo-principal__numero
-        .h3 1
-      .h3 El plan de comunicación
+        span 1
+      h1 El plan de comunicación
   
 
     .row.justify-content-around.align-items-center
@@ -21,7 +21,7 @@
  
 
     #t_1_1.titulo-segundo
-      .h4 1.1  La comunicación en la empresa
+      h2 1.1  La comunicación en la empresa
 
     .row.justify-content-around.align-items-center
 
@@ -41,7 +41,7 @@
     br
     
     #t_1_2.titulo-segundo
-      .h4 1.2 Proceso de la comunicación
+      h2 1.2 Proceso de la comunicación
 
     p.mb-4 La comunicación si bien se lleva a cabo todo el tiempo y con todas las personas con las que se interactúa, implica el desarrollo de un proceso sencillo, pero que debe abordarse con estrategias efectivas, si se quiere obtener resultados óptimos. 
 
@@ -168,7 +168,7 @@
     br
     
     #t_1_3.titulo-segundo
-      .h4 1.3 Técnicas de comunicación
+      h2 1.3 Técnicas de comunicación
 
     p.mb-4 Las empresas se deben apoyar en diferentes técnicas de comunicación para el logro de los objetivos y cada una de ellas tiene un accionar en el proceso de promoción de los productos y servicios; así mismo, cada una aporta en el proceso de persuasión que lleva al incremento del consumo y el uso de los servicios de la empresa. Las diferentes técnicas permiten llegar a todos los públicos objetivo con una comunicación 360º; es decir, abarcando todos los medios posibles de acuerdo con las características que presenten con los consumidores.
 
