@@ -260,8 +260,7 @@
               
     
     #t_1_4.titulo-segundo
-     
-      .h4 1.4 Medios de comunicación
+      h2 1.4 Medios de comunicación
     
     
     .col-lg-12
@@ -589,7 +588,7 @@
                 img(src='@/assets/tema1//img-1-4-13.png', alt='Texto que describa la imagen')
                   
     #t_1_5.titulo-segundo.mb-4
-      .h4 1.5 Estructura del plan de comunicación  
+      h2 1.5 Estructura del plan de comunicación  
 
     .col-lg-12
       .bloque-texto-a.color-primario.b.p-4.p-md-5.mb-5 
