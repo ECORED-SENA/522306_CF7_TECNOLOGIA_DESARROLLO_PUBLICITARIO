@@ -68,11 +68,11 @@ export default {
         icono: 'fas fa-sort-alpha-down',
         titulo: 'Glosario',
       },
-      //{
-      //icono: 'fas fa-download',
-      //titulo: 'Descargar material',
-      //download: 'downloads/material.zip',
-      //},
+      {
+        icono: 'fas fa-download',
+        titulo: 'Descargar material',
+        download: 'downloads/material.zip',
+      },
       {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
